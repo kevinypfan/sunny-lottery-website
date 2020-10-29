@@ -1,4 +1,4 @@
-import "../styles/globals.css";
+import "../styles/globals.scss";
 import { ThemeProvider } from "@material-ui/core/styles";
 import theme from "../theme/theme";
 import Head from "next/head";
